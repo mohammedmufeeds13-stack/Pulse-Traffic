@@ -1,0 +1,6 @@
+{
+  "name": "PulseTraffic",
+  "description": "AI-Powered Smart Traffic Management System for modern cities with real-time analytics, dynamic signal control, and emergency vehicle routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
